@@ -8,7 +8,6 @@ const currentPath = Astro.url.pathname;
 const routes = {
   "/": "Home",
   "/history/": "History",
-  "/contact/": "Contact",
 };
 // Determine the active route
 const activeRoute = routes[currentPath] || null;
@@ -28,12 +27,7 @@ const activeRoute = routes[currentPath] || null;
         class={activeRoute === "History" ? "current" : ""}
         data-astro-prefetch><TextSlider content="História da Lumuns" /></a>
     </li>
-    <li>
-      <a
-        href="/contact/"
-        class={activeRoute === "Contact" ? "current" : ""}
-        data-astro-prefetch><TextSlider content="Contato" /></a>
-    </li>
+
   </ul>
 </header>
 <Separator />
