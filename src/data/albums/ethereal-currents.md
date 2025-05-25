@@ -1,9 +1,9 @@
 ---
-name: "Ethereal Currents"
+name: "Casei e Agora?"
 image:
-  src: "/images/albums/ethereal_currents.webp"
+  src: "Img/Lançamento Casei e Agora.webp"
   alt: "Album cover of Ethereal Currents by Amarié, featuring abstract, atmospheric visuals with glowing light patterns."
-publishDate: 2024-05-21
+publishDate: 2016-02-29
 tracks:
   - "Whispers of Light"
   - "Infinite Frequencies"

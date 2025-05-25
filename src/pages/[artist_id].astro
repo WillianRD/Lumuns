@@ -58,9 +58,9 @@ const { Content } = await render(artist);
         <span class="faded">({artist.data.name})</span>
       </h2>
       <div>
-        <a class="back" href="/">View all</a>
+        <a class="back" href="/">Página Anterior</a>
         <span class="faded">/</span>
-        <a href={`/${nextArtist.id}`}>Next artist</a>
+        <a href={`/${nextArtist.id}`}>Próximo Livro</a>
       </div>
     </header>
     <Separator />
@@ -71,20 +71,13 @@ const { Content } = await render(artist);
         alt={artist.data.image.alt}
       />
       <div class="content">
-        <h3>Biography</h3>
+        <h3>Descrição</h3>
         <Content />
         <dl>
-          <dt>Genre</dt><dd>{artist.data.genre}</dd>
+          <dt>Gênero</dt><dd>{artist.data.genre}</dd>
         </dl>
       </div>
-      {
-        albums.length > 0 && (
-          <div class="albums">
-            <h3>Releases</h3>
-            <AlbumGrid albums={albums} />
-          </div>
-        )
-      }
+
     </div>
   </section>
 </BaseLayout>

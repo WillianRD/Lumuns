@@ -1,9 +1,9 @@
 ---
-name: "Celestial Waves"
+name: "O Diário"
 image:
-  src: "/images/albums/celestial_waves.webp"
+  src: "Img/O Diario.webp"
   alt: "Illustration for Celestial Waves featuring soft, flowing waves of color in hues of blue, purple, and pink"
-publishDate: 2025-02-14
+publishDate: 1947-05-25
 tracks:
   - "Ethereal Glow"
   - "Ocean's Whisper"
