@@ -1,14 +1,14 @@
 ---
-name: "Kwame Adom"
-stage_name: "K-Adom"
-genre: "Afrobeat Fusion"
+name: "Nada pode me ferir"
+stage_name: "David Goggins"
+genre: "Motivacional"
 image: 
-    src: "/images/artists/k_adom.webp"
-    alt: "K-Adom posing confidently against a vibrant pink background"
+    src: "Img/Livro Nada pode me ferir.webp"
+    alt: "Nada pode me ferir"
 ---
 
-Kwame Adom, widely known by his stage name K-Adom, is a rising star in the Afrobeat Fusion scene. Born in Accra, Ghana, and raised in London, K-Adom masterfully blends the rich rhythms of traditional African music with modern electronic and hip-hop elements, creating a sound that is both innovative and deeply rooted in heritage.
+David Goggins teve uma infância marcada por pobreza, racismo e abusos físicos. Na vida adulta, enfrentou obesidade, depressão e falta de perspectiva. No entanto, através de disciplina, resistência mental e trabalho árduo, transformou-se em um ícone das Forças Armadas dos EUA e um dos maiores atletas de resistência do mundo.
 
-His breakout single, *Motion*, became a global hit, earning him acclaim for his ability to craft infectious grooves and poignant lyrics that celebrate African culture while addressing contemporary issues. His music is a celebration of identity, resilience, and unity.
+Ele é o único homem a completar o treinamento das três principais forças de elite americanas: Navy SEALs, Army Rangers e Air Force Tactical Air Control Party (TACP). Além disso, bateu recordes em ultramaratonas e eventos de resistência.
 
-K-Adom’s live performances are electrifying, featuring dynamic choreography, vibrant visuals, and a live band that amplifies the energy of his tracks. Beyond music, he is a vocal advocate for youth empowerment and cultural preservation, often collaborating with local artists and organizations to give back to his community. With his magnetic presence and boundary-pushing artistry, K-Adom is leading the Afrobeat Fusion movement into the future.
+No livro, Goggins compartilha sua trajetória e apresenta a "Regra dos 40%": quando pensamos que atingimos nosso limite, ainda temos 60% de capacidade não explorada. Ele mostra como acessar essa reserva mental para superar desafios e alcançar excelência.

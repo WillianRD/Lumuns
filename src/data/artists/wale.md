@@ -1,14 +1,10 @@
 ---
-name: "Wyatt Monroe"
-stage_name: "Wale"
-genre: "Dream Pop"
+name: "Ray Bradbury"
+stage_name: "Fahrenheit 451"
+genre: "Distopia"
 image: 
-    src: "/images/artists/wale.webp"
-    alt: "Wale with a contemplative look, radiating ethereal charm and artistic melancholy"
+    src: "Img/Fahrenheit 451.webp"
+    alt: "Fahrenheit 451"
 ---
-
-Wyatt Monroe, known by his stage name Wale, is a captivating presence in the **Dream Pop** genre. With his ethereal vocals, atmospheric soundscapes, and poetic lyricism, Wale crafts music that feels like stepping into a lucid dream. Hailing from Edinburgh, Scotland, his sound blends wistful melodies with modern production, creating a haunting yet soothing experience.
-
-His debut album, *Faded*, quickly gained attention for its ability to transport listeners to otherworldly places, exploring themes of nostalgia, vulnerability, and fleeting moments of connection. Influenced by artists like Beach House and Cigarettes After Sex, Wale’s music captures the beauty in stillness and longing.
-
-On stage, Weston’s performances are intimate and immersive, often accompanied by hypnotic visuals and minimalist lighting. Offstage, he’s an introspective artist who finds inspiration in nature and quiet solitude, translating these moments into his work. Wale is redefining dream pop with a sound that lingers long after the last note fades.
+"Fahrenheit 451" de Ray Bradbury é uma distopia futurista que apresenta uma sociedade onde o conhecimento é proibido e os livros são considerados a fonte de toda a infelicidade. A tarefa de "manter a paz" e a "felicidade" da população recai sobre os bombeiros, que, em vez de apagar incêndios, têm a função de queimar livros onde quer que sejam encontrados.
+O protagonista, Guy Montag, é um bombeiro que, inicialmente, cumpre seu dever com convicção. No entanto, encontros com uma jovem vizinha de espírito livre e um professor exilado começam a semear dúvidas em sua mente, levando-o a questionar o sistema e a buscar o verdadeiro significado do conhecimento. A obra é uma poderosa crítica à censura, à conformidade social e ao perigo da ignorância, explorando a importância da leitura, do pensamento crítico e da liberdade de expressão em uma sociedade dominada pela tecnologia e pela superficialidade.

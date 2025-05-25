@@ -1,14 +1,12 @@
 ---
-name: "Zion Maxim Torres"
-stage_name: "Z.T."
-genre: "Hip-Hop"
+name: "Bram Stoker"
+stage_name: "Drácula"
+genre: "Terror"
 image: 
-    src: "/images/artists/z_t.webp"
-    alt: "Z.T. posing in an understated but stylish outfit, exuding calm intensity"
+    src: "Img/Dracula.webp"
+    alt: "Dracula"
 ---
 
-Zion Torres, professionally known as Z.T., is a rising name in the minimalist hip-hop scene. Hailing from Brooklyn, New York, Z.T. creates music that strips away the excess, focusing on raw beats and lyrics that hit with emotional precision. His sound reflects his mantra: less is more.
+Drácula é um romance gótico que conta a história do Conde Drácula, um vampiro ancestral que tenta se mudar da Transilvânia para a Inglaterra, espalhando terror e morte pelo caminho. A narrativa é construída em formato epistolar — cartas, diários, relatórios — o que cria uma atmosfera intensa e misteriosa.
 
-His debut mixtape, *Death*, earned praise for its introspective lyrics and innovative use of silence and space in production. Z.T. crafts stories of urban life, self-reflection, and resilience, connecting deeply with his audience through simplicity and authenticity.
-
-Z.T.’s live performances are as minimalist as his sound—favoring intimate venues where the focus is on his words and delivery rather than flashy theatrics. Off the mic, he’s a passionate mentor to young artists, emphasizing the importance of finding one's voice. With his understated yet impactful approach, Z.T. is redefining what it means to be a hip-hop artist in the modern era.
+O livro é mais do que um simples conto de terror: ele traz uma reflexão sobre medo do desconhecido, repressões sociais, sexualidade e poder. É uma obra que mistura suspense, horror psicológico e uma aura sombria que ainda influencia a cultura pop até hoje.

@@ -1,14 +1,9 @@
 ---
-name: "Julian Frost"
-stage_name: "Frostbyte"
-genre: "Electro Funk"
+name: "Mônica de Castro"
+stage_name: "Casei e Agora?"
+genre: "Relacionamentos"
 image: 
-    src: "/images/artists/frostbyte.webp"
-    alt: "Frostbyte performing on a rooftop, surrounded by neon visuals"
+    src: "Img/Lançamento Casei e Agora.webp"
+    alt: "Casei e Agora?"
 ---
-
-Julian Frost, widely recognized by his electrifying stage name Frostbyte, is a trailblazer in the electro-funk genre. A native of London, his music is a kaleidoscope of funky grooves and glitchy electronic beats, reflecting the vibrant diversity of his hometown.
-
-With his debut album *Pixel Groove*, Frostbyte captivated audiences worldwide, earning praise for his infectious rhythms and boundary-pushing sound design. His tracks are a sonic adventure, blending classic funk elements with cutting-edge electronic production.
-
-Frostbyte's live performances are a visual and auditory spectacle, often set against backdrops of neon art and immersive projections. When he’s not on stage, Julian is a vocal advocate for emerging artists, mentoring young musicians and fostering creativity in the electronic music community.
+Esse livro é tipo aquele manual prático para quem acabou de entrar na vida de casado e quer entender como construir uma relação sólida, saudável e cheia de companheirismo. Ele aborda desde a comunicação, divisão de tarefas, até lidar com desafios comuns do casamento, trazendo dicas reais para fortalecer a parceria no dia a dia. É leitura obrigatória para quem quer viver a vida a dois de forma consciente e feliz.

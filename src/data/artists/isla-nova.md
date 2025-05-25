@@ -1,14 +1,10 @@
 ---
-name: "Isla Carrington"
-stage_name: "Isla Nova"
-genre: "Synth-Pop"
+name: "Jennifer Lynn Barnes"
+stage_name: "Tudo ou Nada"
+genre: "Mistério"
 image: 
-    src: "/images/artists/isla_nova.webp"
-    alt: "Isla Nova posing under dynamic neon lighting, radiating confidence and style"
+    src: "Img/Lançamento Tudo ou Nada.webp"
+    alt: "Tudo ou Nada"
 ---
 
-Isla Carrington, known on stage as Isla Nova, is a rising star in the synth-pop world. Hailing from Miami, Florida, Isla combines vibrant electronic beats with sultry vocals to create music that’s both electrifying and deeply emotional.
-
-Her debut album, *Euphoria*, quickly gained traction for its infectious hooks and retro-inspired synth melodies. Isla’s music is a celebration of individuality, exploring themes of empowerment, self-discovery, and resilience, all wrapped in shimmering pop production.
-
-On stage, Isla Nova is a captivating performer, blending high-energy dance routines with stunning visuals that feel like stepping into a futuristic dream. Offstage, she’s a strong advocate for women in electronic music and uses her platform to uplift other female artists. With her fearless artistry and magnetic presence, Isla Nova is leading a new wave of synth-pop icons.
+Este é o terceiro volume da série "Os Naturais". Após enfrentarem um serial killer que imitava o modus operandi do pai de um dos membros, o grupo é autorizado pelo FBI a participar de casos ativos. Sua primeira missão os leva a Las Vegas, onde uma nova série de assassinatos está ocorrendo. As mortes acontecem em público, e as vítimas têm uma série de números marcados no punho. A especialista em números, Sloane Tavish, desempenha um papel crucial na investigação, especialmente porque um dos cassinos envolvidos pertence ao seu pai. Enquanto isso, Cassie lida com avanços no caso de sua mãe desaparecida, testando a união e determinação do grupo. 

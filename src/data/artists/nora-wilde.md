@@ -1,14 +1,20 @@
 ---
-name: "Eleanor Wyatt"
-stage_name: "Nora Wilde"
-genre: "Alternative Folk"
+name: "Thiago Nigro"
+stage_name: "Do Mil ao Milhão"
+genre: "Negócios"
 image: 
-    src: "/images/artists/nora_wilde.webp"
-    alt: "Nora Wilde holding her guitar with a minimalist and modern style"
+    src: "Img/Livro Thiago Nigro.webp"
+    alt: "Até um milhão de reais"
 ---
 
-Eleanor Wyatt, known on stage as Nora Wilde, is a rising star in the alternative folk scene. Hailing from Portland, Oregon, Nora weaves introspective lyrics with stripped-back guitar melodies, creating music that feels like a quiet conversation with an old friend.
+Neste livro, Thiago Nigro, criador da plataforma "O Primo Rico", compartilha sua trajetória pessoal e profissional, oferecendo um guia prático para alcançar a independência financeira.
 
-Her debut album, *Still Waters*, is a soulful collection of songs that explore themes of solitude, self-discovery, and the beauty in life's quiet moments. Drawing inspiration from artists like Joni Mitchell and Phoebe Bridgers, Nora Wilde's sound is both timeless and refreshingly contemporary.
+Gastar Bem: Nigro enfatiza a importância de identificar e eliminar gastos desnecessários, promovendo uma gestão consciente do dinheiro sem abrir mão de pequenos prazeres, como o cafezinho diário.
+Resumo do Livro
 
-On stage, Nora captivates her audience with an understated yet compelling presence, letting her voice and guitar speak volumes. Offstage, she’s an advocate for sustainability and often incorporates her love of nature into her music and visuals. With her poetic storytelling and delicate yet powerful melodies, Nora Wilde is redefining what it means to be a modern folk artist.
+Investir Melhor: O autor apresenta diversas modalidades de investimento, como ações, fundos imobiliários e tesouro direto, explicando de forma acessível como cada uma funciona e como podem contribuir para o crescimento do patrimônio.
+Resumo do Livro
+
+Ganhar Mais: Nigro incentiva o desenvolvimento de habilidades e a busca por novas fontes de renda, destacando a importância do empreendedorismo e da valorização profissional para aumentar os ganhos.
+
+Com uma linguagem simples e direta, o livro desmistifica conceitos financeiros complexos, tornando-os compreensíveis para leitores de diferentes níveis de conhecimento. Além disso, inclui exemplos práticos e estratégias aplicáveis ao cotidiano, facilitando a implementação das dicas apresentadas.

@@ -1,14 +1,12 @@
 ---
-name: "Kenji Nakamura"
-stage_name: "Zenji"
-genre: "Lo-fi Beats"
+name: "William Shakespeare"
+stage_name: "Hamlet"
+genre: "Romance"
 image: 
-    src: "/images/artists/zenji.webp"
-    alt: "Zenji sitting on the floor bathed in neon lights"
+    src: "Img/Hamlet.webp"
+    alt: "Hamlet"
 ---
 
-Kenji Nakamura, known by his stage name Zenji, is a rising producer in the lo-fi beats scene. Born and raised in Kyoto, Japan, Zenji blends serene, organic sounds with nostalgic melodies, creating music that feels like a gentle escape from the chaos of modern life.
-
-His debut EP, *The Well*, is a collection of tranquil beats inspired by Zen gardens, traditional Japanese instruments, and the calming rhythm of nature. Zenji’s music has become a staple for late-night study sessions and quiet moments of reflection.
-
-Zenji’s artistic philosophy is rooted in simplicity and mindfulness, often incorporating field recordings from his travels into his music. Offstage, he’s a passionate advocate for sustainable living, frequently collaborating with environmental organizations. With his minimalistic yet soulful approach, Zenji is carving out a unique space in the world of lo-fi music.
+"Hamlet", de William Shakespeare, é uma das mais célebres tragédias da literatura universal. A peça narra a história do príncipe Hamlet da Dinamarca, que vive atormentado após a morte súbita de seu pai, o rei.
+A situação se agrava quando o fantasma do rei aparece para Hamlet, revelando ter sido assassinado por seu próprio irmão, Cláudio, que agora usurpou o trono e se casou com a rainha Gertrudes, mãe de Hamlet. Chocado com a revelação e com a pressa do casamento, Hamlet é consumido pelo desejo de vingança, mas sua natureza introspectiva e sua tendência à hesitação o levam a um profundo dilema moral e existencial.
+A trama se desenrola com Hamlet fingindo loucura para investigar a culpa de Cláudio, o que desencadeia uma série de eventos trágicos que afetam a todos ao seu redor: sua amada Ofélia, seu amigo Horácio, o conselheiro Polônio e sua família. A peça explora temas complexos como a morte, a loucura, a traição, a moralidade, a vingança, a ambição política e a natureza da existência humana, culminando.

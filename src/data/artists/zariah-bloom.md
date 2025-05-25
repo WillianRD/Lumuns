@@ -1,14 +1,11 @@
 ---
-name: "Imani Bishop"
-stage_name: "Zariah Bloom"
-genre: "Neo-Soul"
+name: "Emily Brontë"
+stage_name: "O Morro dos Ventos Uivantes"
+genre: "Romance"
 image: 
-    src: "/images/artists/zariah_bloom.webp"
-    alt: "Zariah Bloom with a striking profile, exuding elegance and soulful confidence"
+    src: "Img/O Morro Dos Ventos Uivantes.webp"
+    alt: "Morro Dos Ventos Uivantes"
 ---
-
-Imani Bishop, known to the world as Zariah Bloom, is a visionary in the **Neo-Soul** scene. With a voice that intertwines vulnerability and strength, Zariah crafts music that feels both deeply personal and universally resonant. Hailing from Harlem, New York, she draws from her community’s rich cultural history while forging a sound that’s refreshingly modern.
-
-Her debut album, *Bloom Theory*, is a soulful exploration of love, self-awareness, and the power of growth. Rooted in influences from Sade and Solange, Zariah Bloom’s music is lush and layered, infused with organic instrumentation and contemporary beats that linger long after the music ends.
-
-Live, Zariah is magnetic, channeling her emotions into performances that are as empowering as they are intimate. Offstage, she’s a dedicated advocate for women’s empowerment and creative freedom, mentoring emerging female artists and championing individuality. Zariah Bloom is not just a performer; she’s a movement, a blossoming force reshaping neo-soul for a new era.
+"O Morro dos Ventos Uivantes" de Emily Brontë é um romance gótico e trágico que narra a história de amor intensa, obsessiva e destrutiva entre Catherine Earnshaw e Heathcliff. A trama se desenrola nas sombrias charnecas de Yorkshire, na Inglaterra, e abrange duas gerações de famílias ligadas por laços de amor e ódio.
+A história começa com a chegada de Heathcliff, um misterioso órfão, à propriedade dos Earnshaw, o "Morro dos Ventos Uivantes". Ele desenvolve uma paixão avassaladora por Catherine, a filha do patrão. No entanto, as diferenças sociais e a ambição levam Catherine a se casar com o rico e refinado Edgar Linton, do solar vizinho, a Granja da Cruz dos Tordos.
+Sentindo-se traído e humilhado, Heathcliff desaparece e retorna anos depois, agora rico e com um único propósito: vingar-se de todos que o separaram de Catherine. Sua busca por vingança consome a todos ao seu redor, causando dor, miséria e tragédia, e se estende até a próxima geração. O romance explora temas como o amor proibido, a obsessão, o ciú

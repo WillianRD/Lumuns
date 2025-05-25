@@ -1,14 +1,11 @@
 ---
-name: "Sophia Nguyen"
-stage_name: "Velvet Rush"
-genre: "Neo-Soul"
+name: "Anne Frank"
+stage_name: "O Diário"
+genre: "Autobiografia"
 image: 
-    src: "/images/artists/velvet_rush.webp"
-    alt: "Velvet Rush performing in a moody jazz club, lit by golden spotlights"
+    src: "Img/O Diario.webp"
+    alt: "O Diario"
 ---
 
-Sophia Nguyen, who graces the stage as Velvet Rush, is a rising star redefining the neo-soul genre. Born and raised in New Orleans, her music reflects a unique fusion of sultry vocals, jazzy undertones, and her Vietnamese heritage.
-
-Her debut album, *Golden Hour*, is a masterful blend of emotional depth and musical sophistication, earning her accolades for its heartfelt lyrics and lush instrumentation. Listeners are drawn to Velvet Rush’s ability to tell stories through her music, weaving tales of love, resilience, and self-discovery.
-
-Sophia's performances are known for their intimate atmosphere, often set in dimly lit jazz clubs where her golden voice shines brightest. Beyond her music, Velvet Rush is a passionate advocate for cultural diversity in the arts, inspiring others to embrace their unique stories.
+"O Diário de Anne Frank" é o relato pungente e comovente de Anne Frank, uma adolescente judia que, junto com sua família e outras quatro pessoas, se escondeu em um anexo secreto em Amsterdã durante a ocupação nazista dos Países Baixos, na Segunda Guerra Mundial.
+Através de suas anotações íntimas em um diário, Anne descreve o cotidiano claustrofóbico do esconderijo, as tensões entre os ocupantes, a escassez de recursos e o medo constante da descoberta. Além dos desafios físicos e psicológicos do confinamento, o diário revela as reflexões profundas de Anne sobre a vida, o crescimento pessoal, seus sonhos e ambições, o amor adolescente e a natureza humana, mesmo diante do terror iminente. É um testemunho poderoso da perseverança do espírito humano e uma lembrança arrepiante das atrocidades do Holocausto.

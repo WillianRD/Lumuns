@@ -1,14 +1,14 @@
 ---
-name: "Andre Kingston"
-stage_name: "Stardust Royale"
-genre: "Glam Rock"
+name: "Machado de Assis"
+stage_name: "O Realismo"
+genre: "Realismo"
 image: 
-    src: "/images/artists/stardust_royale.webp"
-    alt: "Stardust Royale striking a powerful pose in a shimmering red suit, radiating retro glam energy"
+    src: "Img/Machado de Assis.webp"
+    alt: "Grande Machado de Assis"
 ---
 
-Andre Kingston, known by his striking stage name Stardust Royale, is the modern face of glam rock. Hailing from Detroit, Michigan, Stardust Royale blends the theatricality and extravagance of 70s glam legends with a futuristic twist, creating music that is as daring as his iconic style.
+Machado de Assis é um visionário que revolucionou a literatura nacional com sua abordagem realista, que não é só sobre representar a vida como ela é, mas explorar a complexidade psicológica dos personagens, os jogos de poder, as contradições humanas e as hipocrisias sociais.
 
-His debut album, *Rebellion*, is a high-octane journey through soaring guitar solos, explosive anthems, and lyrics that celebrate individuality, freedom, and the unapologetic pursuit of self-expression. Inspired by greats like Freddie Mercury and T. Rex, Stardust Royale’s sound is larger-than-life, just like his persona.
+Ele não entrega a história no prato — você tem que prestar atenção nas entrelinhas, porque o texto é cheio de ironia, sarcasmo e uma análise profunda das motivações e limitações do ser humano. Os romances e contos desse período mostram a elite carioca com todas as suas máscaras, revelando os mecanismos sociais que moldam e aprisionam as pessoas.
 
-On stage, Stardust Royale is pure energy and spectacle—glittering costumes, electrifying choreography, and an undeniable charisma that makes every performance unforgettable. Offstage, he’s a passionate advocate for creative expression and diversity in the music industry, using his voice to inspire a new generation of artists to break boundaries. Stardust Royale isn’t just a rock star—he’s a cosmic force of nature.
+Obras como Memórias Póstumas de Brás Cubas, Dom Casmurro e Quincas Borba são o auge desse estilo, e são leituras obrigatórias para quem quer entender a alma humana e a sociedade brasileira daquela época, mas que continuam super atuais.

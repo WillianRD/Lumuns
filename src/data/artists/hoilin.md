@@ -1,14 +1,9 @@
 ---
-name: "Hikaru Inoue"
-stage_name: "Hoilin"
-genre: "J-Pop"
+name: " Stefano Volp"
+stage_name: "Santo de Casa"
+genre: "Romance"
 image: 
-    src: "/images/artists/hoilin.webp"
-    alt: "Hoilin performing on a brhghtly lit stage with pastel visuals"
+    src: "Img/Lançamento Santo de Casa.webp"
+    alt: "Santo de Casa"
 ---
-
-Hikaru Inoue, known worldwide as Hoilin, is a shining star in the J-Pop scene. Born in Tokyo, Hoilin's music is a vibrant mix of catchy melodies, heartfelt lyrics, and playful charm that has captivated audiences across the globe.
-
-Her debut album, *Sweet Reverie*, quickly climbed the charts, showcasing her ability to blend traditional Japanese pop sensibilities with modern electronic influences. Hoilin's music videos are celebrated for their whimsical visuals and imaginative storytelling, further enhancing her iconic status.
-
-Offstage, Hoilin is an avid supporter of mental health awareness, using her platform to encourage fans to embrace self-love and authenticity. With her radiant voice and boundless energy, Hoilin continues to spread joy and positivity through her music and message.
+Em Santo de Casa, Stefano Volp nos conduz por uma narrativa intensa e emocional, centrada na família de Zé Maria, um homem cuja morte trágica desencadeia uma série de reflexões profundas. Seus filhos, Alan, Alex e Betina, juntamente com a mãe, Rute, enfrentam o luto e confrontam as cicatrizes deixadas por anos de violência e opressão doméstica. Enquanto a comunidade externa celebra a memória de Zé Maria, a família lida com a complexidade de sentimentos contraditórios, revelando as múltiplas facetas da masculinidade negra e os impactos do patriarcado.

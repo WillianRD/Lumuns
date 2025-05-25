@@ -1,10 +1,10 @@
 ---
-name: "Marco Alvarez"
-stage_name: "VXN"
-genre: "Cinematic Electronic"
+name: "Art Spiegelman"
+stage_name: "Maus"
+genre: "História"
 image: 
-    src: "/images/artists/vxn.webp"
-    alt: "VXN with a piercing gaze under moody green and orange lighting, exuding mystery and intensity"
+    src: "Img/Historia Completa.webp"
+    alt: "A historia"
 ---
 
 Marco Alvarez, better known by his stage name VXN, is a groundbreaking producer in the cinematic electronic music scene. Born in Madrid, Spain, and now based in Berlin, VXN creates haunting soundscapes that blend atmospheric textures with pulsating beats, perfect for late-night introspection or high-energy moments.

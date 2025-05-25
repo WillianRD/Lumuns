@@ -1,14 +1,10 @@
 ---
-name: "Mia Sullivan"
-stage_name: "Mia Sue"
-genre: "Hip Hop"
+name: "Ayrton Senna"
+stage_name: "A Toda Velocidade"
+genre: "Biografia"
 image: 
-    src: "/images/artists/mia_sue.webp"
-    alt: "Mia Sue performing under vibrant graffiti art"
+    src: "Img/Livro Senna.webp"
+    alt: "Livro do Senna"
 ---
 
-Mia Sue is a powerful new voice in the hip-hop world, blending raw energy with poetic storytelling. Born and raised in Los Angeles, her music reflects the struggles and triumphs of her community, resonating deeply with fans across the globe.
-
-Her debut album, *Street Serenade*, is a bold statement of her lyrical prowess, tackling themes of empowerment, identity, and resilience. Known for her ability to weave intricate rhymes with hard-hitting beats, Mia Sue has quickly risen to become a role model in the industry.
-
-Mia’s performances are an electrifying blend of intensity and authenticity, often featuring collaborations with local artists and dancers. Beyond her music, she advocates for social justice and community development, using her platform to inspire and uplift the next generation of talent.
+Considerada uma das biografias mais completas de Senna, esta obra mergulha profundamente na vida do piloto, desde sua infância até os momentos finais em Ímola. A nova edição de 2024 inclui 60 novos depoimentos, oferecendo insights inéditos sobre sua trajetória pessoal e profissional.

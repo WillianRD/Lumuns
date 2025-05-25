@@ -1,14 +1,10 @@
 ---
-name: "Rajiv Bhatia"
-stage_name: "DJ Bolly"
-genre: "Fusion"
+name: "Stephen King"
+stage_name: "It a Coisa"
+genre: "Terror"
 image: 
-    src: "/images/artists/dj_bolly.webp"
-    alt: "DJ Bolly mixing tracks at a high-energy rooftop party"
+    src: "Img/Card It a Coisa.webp"
+    alt: "Um palhaço que vem para atacar as pessoas"
 ---
 
-Rajiv Bhatia, globally recognized as DJ Bolly, is a trailblazer in the Bollywood fusion music scene. Born in Mumbai, DJ Bolly combines traditional Indian music with global electronic beats, creating a sound that is both nostalgic and refreshingly modern.
-
-His debut mix album, *Desi Beats Reloaded*, became an instant hit, earning him a reputation for his ability to seamlessly blend Bollywood classics with contemporary EDM. DJ Bolly’s high-energy performances, complete with vibrant visuals and crowd-engaging remixes, have made him a favorite at festivals and clubs worldwide.
-
-Beyond the turntables, Rajiv is passionate about cultural preservation, often collaborating with traditional Indian musicians to bring their art to global audiences. DJ Bolly’s music is a celebration of diversity and a bridge between generations.
+Na pacata cidade de Derry, no Maine, crianças começam a desaparecer misteriosamente. Um grupo de amigos, autodenominado "Clube dos Otários", descobre que o responsável é uma entidade maligna milenar que assume a forma dos maiores medos de suas vítimas — mais frequentemente como o palhaço Pennywise. Alternando entre a infância dos protagonistas nos anos 1950 e sua vida adulta nos anos 1980, a narrativa mergulha fundo no trauma, na amizade e na eterna luta contra o medo.
