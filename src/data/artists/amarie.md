@@ -1,14 +1,10 @@
 ---
-name: "Amara Patel"
-stage_name: "Amarié"
-genre: "Experimental R&B"
+name: "Stephen King"
+stage_name: "A dança da Morte"
+genre: "Terror"
 image: 
-    src: "/images/artists/amerie.webp"
+    src: "Img/Card A Dança.webp"
     alt: "Amarié with a bold and mysterious presence under dramatic lighting"
 ---
 
-Amara Patel, known by her stage name Amarié, is an experimental R&B artist whose hypnotic voice and genre-defying sound have redefined the boundaries of contemporary music. Born in London to a multicultural family, Amarié’s music draws from her diverse heritage, blending elements of traditional soul with electronic textures and avant-garde beats.
-
-Her debut album, *Ethereal Currents*, earned critical acclaim for its lush production and emotive storytelling. Themes of empowerment, identity, and vulnerability run through her lyrics, set against a sonic backdrop that’s as bold and captivating as her presence.
-
-Amarié’s live performances are immersive experiences, featuring haunting visuals and atmospheric soundscapes that transport her audience into another world. Offstage, she’s a passionate advocate for underrepresented voices in the music industry, working to create opportunities for emerging artists. With her fearless approach to artistry, Amarié is leading a new era of R&B innovation.
+Um supervírus criado em laboratório escapa e elimina 99% da população mundial. Os poucos sobreviventes se dividem entre duas forças opostas: uma liderada pela bondosa e mística Mãe Abigail, e outra pelo sombrio e demoníaco Randall Flagg. A obra mergulha nos limites da civilização e da moralidade, num embate épico entre o Bem e o Mal. É um retrato apocalíptico da humanidade com doses de suspense, religião, filosofia e fantasia sombria.
