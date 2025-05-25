@@ -19,33 +19,33 @@ const activeRoute = routes[currentPath] || null;
 <header>
   <h1>
     <a href="/" class={activeRoute === "Home" ? "current" : ""}
-      ><TextSlider content="Players Club" /></a>
+      ><TextSlider content="Lemun Livros" /></a>
   </h1>
-  <span><TextSlider content="Record Label" /></span>
+  <span><TextSlider content="Significa luz — remete ao conhecimento, à clareza, à sabedoria." /></span>
   <ul>
     <li>
       <a
         href="/releases/"
-        class={activeRoute === "Releases" ? "current" : ""}
-        data-astro-prefetch><TextSlider content="Releases" /></a>
+        class={activeRoute === "Sobre" ? "current" : ""}
+        data-astro-prefetch><TextSlider content="Sobre" /></a>
     </li>
     <li>
       <a
         href="/history/"
         class={activeRoute === "History" ? "current" : ""}
-        data-astro-prefetch><TextSlider content="History" /></a>
+        data-astro-prefetch><TextSlider content="História da Lemun" /></a>
     </li>
     <li>
       <a
         href="/store/"
         class={activeRoute === "Store" ? "current" : ""}
-        data-astro-prefetch><TextSlider content="Store" /></a>
+        data-astro-prefetch><TextSlider content="Loja" /></a>
     </li>
     <li>
       <a
         href="/contact/"
         class={activeRoute === "Contact" ? "current" : ""}
-        data-astro-prefetch><TextSlider content="Contact" /></a>
+        data-astro-prefetch><TextSlider content="Contato" /></a>
     </li>
   </ul>
 </header>
